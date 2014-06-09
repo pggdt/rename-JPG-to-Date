@@ -7,3 +7,6 @@ The jar file runs well on Ubuntu 12.04 and win7, which can rename jpg and jpeg f
 
 The folder is the eclipse java project code of the jar file. You may need to modify the metadata-extractor lib path before you modify the other code.
 Thanks for Drew Noakes's metadata-extractor! https://code.google.com/p/metadata-extractor/
+
+
+For more info please visit http://ft.wupo.info/rename-jpg-to-date/ 
